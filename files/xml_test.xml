@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+	<record>
+		<language>eng</language>
+		<publisher>Multidisciplinary Digital Publishing Institute</publisher>
+		<journalTitle>International Journal of Environmental Research and Public Health</journalTitle>
+		<eissn>1660-4601</eissn>
+		<publicationDate>2017-06-23</publicationDate>
+		<volume>14</volume>
+		<issue>7</issue>
+				<startPage>677</startPage>
+		<endPage></endPage>
+				<doi>10.3390/ijerph14070677</doi>		<publisherRecordId>ijerph14070677</publisherRecordId>
+		<documentType>article</documentType>
+		<title language="eng">Benefits, Facilitators, Barriers, and Strategies to Improve Pesticide Protective Behaviors: Insights from Farmworkers in North Carolina Tobacco Fields</title>
+		<authors>
+        			<author>
+				<name>AnnMarie Lee Walton</name>
+                <email>annmarie.walton@unc.edu</email>
+								<affiliationId>1</affiliationId>
+							</author>
+        			<author>
+				<name>Catherine E. LePrevost</name>
+                <email>celeprev@ncsu.edu</email>
+								<affiliationId>2</affiliationId>
+							</author>
+        			<author>
+				<name>Laura Linnan</name>
+                <email>linnan@email.unc.edu</email>
+								<affiliationId>3</affiliationId>
+							</author>
+        			<author>
+				<name>Ana Sanchez-Birkhead</name>
+                <email>Ana.sanchez-birkhead@nurs.utah.edu</email>
+								<affiliationId>4</affiliationId>
+							</author>
+        			<author>
+				<name>Kathi Mooney</name>
+                <email>Kathi.mooney@nurs.utah.edu</email>
+								<affiliationId>4</affiliationId>
+							</author>
+        		</authors>
+		<affiliationsList>
+        			<affiliationName affiliationId="1">School of Nursing, The University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA</affiliationName>
+        			<affiliationName affiliationId="2">Department of Applied Ecology, North Carolina State University, Raleigh, NC 27695, USA</affiliationName>
+        			<affiliationName affiliationId="3">Gillings School of Global Public Health, The University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA</affiliationName>
+        			<affiliationName affiliationId="4">College of Nursing, The University of Utah, Salt Lake City, UT 84112, USA</affiliationName>
+        		</affiliationsList>
+		<abstract language="eng">Pesticide exposure is associated with deleterious health effects. Prior studies suggest Latino farmworkers perceive little control over their occupational health. Using the Health Belief Model as a theoretical guide, we explored the perceptions of Latino farmworkers working in tobacco in North Carolina (n = 72) about benefits and facilitators of pesticide protective behaviors as well as barriers, and strategies to overcome barriers to their use. Interviews were conducted with participants at farmworker housing during non-work time. Qualitative data were analyzed using ATLAS.ti. Farmworkers recognized pesticide protective behaviors as helping them to not get sick and stay healthy. Farmworkers perceived work experience as facilitating protective behaviors. Wetness in the field was the most commonly cited barrier to protective behavior use. To overcome this barrier, farmworkers suggested use of water-resistant outerwear, as well as packing a change of clothes for mid-day, with space and time to change provided by employers. Examination of the efficacy and feasibility of farmworkers’ suggestions for addressing barriers is warranted. Training and behavior modeling by experienced peers may improve behavior adoption and perceived control.</abstract>
+		<fullTextUrl format="pdf">http://www.mdpi.com/1660-4601/14/7/677</fullTextUrl>
+		<keywords language="eng">
+        			<keyword>pesticide protective behaviors</keyword>
+        			<keyword>Latino migrant and seasonal farmworkers</keyword>
+        			<keyword>benefits of protective behavior</keyword>
+        			<keyword>facilitators of protective behavior</keyword>
+        			<keyword>barriers to protective behavior</keyword>
+        			<keyword>strategies to improve protective behavior</keyword>
+        			<keyword>tobacco</keyword>
+        		</keywords>
+	</record>
+	<record>
+		<language>eng</language>
+		<publisher>Multidisciplinary Digital Publishing Institute</publisher>
+		<journalTitle>Actuators</journalTitle>
+		<eissn>2076-0825</eissn>
+		<publicationDate>2017-06-23</publicationDate>
+		<volume>6</volume>
+		<issue>3</issue>
+				<startPage>21</startPage>
+		<endPage></endPage>
+				<doi>10.3390/act6030021</doi>		<publisherRecordId>act6030021</publisherRecordId>
+		<documentType>article</documentType>
+		<title language="eng">Modeling and Testing Strategies for an Interconnected Four-Pole Magnetic Bearing</title>
+		<authors>
+        			<author>
+				<name>Domingos de Farias Brito David</name>
+                <email>domingos@vm.uff.br</email>
+								<affiliationId>1</affiliationId>
+							</author>
+        			<author>
+				<name>José Andrés Santisteban</name>
+                <email>jasantisteban@vm.uff.br</email>
+								<affiliationId>2</affiliationId>
+							</author>
+        			<author>
+				<name>Afonso Celso Del Nero Gomes</name>
+                <email>nero@coep.ufrj.br</email>
+								<affiliationId>3</affiliationId>
+							</author>
+        		</authors>
+		<affiliationsList>
+        			<affiliationName affiliationId="1">Mechanical Engineering Department, Universidade Federal Fluminense (UFF), Rua Passo da Pátria 156, Niterói 24210-240, Brazil</affiliationName>
+        			<affiliationName affiliationId="2">Graduate Programs on Mechanical and on Electrical and Telecommunications Engineering, Universidade Federal Fluminense, Rua Passo da Pátria 156, Niterói 24210-240, Brazil</affiliationName>
+        			<affiliationName affiliationId="3">Graduate Program on Electrical Engineering, COPPE-UFRJ, Universidade Federal do Rio de Janeiro, CP 68504, Rio de Janeiro 21945-970, Brazil</affiliationName>
+        		</affiliationsList>
+		<abstract language="eng">An unusual idea for the construction of active magnetic bearings has been recently discussed in the literature. Theoretical results predict a greater equivalent stiffness for it, when compared with traditional active magnetic bearings. The development of a mathematical model that allows these predictions and the use of recently-built prototypes for testing if the expectations hold true are the main goals of this paper.</abstract>
+		<fullTextUrl format="pdf">http://www.mdpi.com/2076-0825/6/3/21</fullTextUrl>
+		<keywords language="eng">
+        			<keyword>active magnetic bearings</keyword>
+        			<keyword>reluctance forces</keyword>
+        			<keyword>control of magnetic bearings</keyword>
+        			<keyword>magnetic bearings stiffness</keyword>
+        			<keyword>interconnected flux</keyword>
+        		</keywords>
+	</record>
+	<record>
+		<language>eng</language>
+		<publisher>Multidisciplinary Digital Publishing Institute</publisher>
+		<journalTitle>Geosciences</journalTitle>
+		<eissn>2076-3263</eissn>
+		<publicationDate>2017-06-23</publicationDate>
+		<volume>7</volume>
+		<issue>3</issue>
+				<startPage>46</startPage>
+		<endPage></endPage>
+				<doi>10.3390/geosciences7030046</doi>		<publisherRecordId>geosciences7030046</publisherRecordId>
+		<documentType>article</documentType>
+		<title language="eng">Nonlinear Spectral Unmixing for the Characterisation of Volcanic Surface Deposit and Airborne Plumes from Remote Sensing Imagery</title>
+		<authors>
+        			<author>
+				<name>Giorgio A. Licciardi</name>
+                <email>giorgio.licciardi@consorzioipazia.it</email>
+								<affiliationId>1</affiliationId>
+								<affiliationId>2</affiliationId>
+							</author>
+        			<author>
+				<name>Pasquale Sellitto</name>
+                <email>psellitto@lmd.ens.fr</email>
+								<affiliationId>3</affiliationId>
+							</author>
+        			<author>
+				<name>Alessandro Piscini</name>
+                <email>alessandro.piscini@ingv.it</email>
+								<affiliationId>4</affiliationId>
+							</author>
+        			<author>
+				<name>Jocelyn Chanussot</name>
+                <email>jocelyn.chanussot@gipsa-lab.grenoble-inp.fr</email>
+								<affiliationId>2</affiliationId>
+								<affiliationId>5</affiliationId>
+							</author>
+        		</authors>
+		<affiliationsList>
+        			<affiliationName affiliationId="1">Research Consortium Hypatia, 00133 Rome, Italy</affiliationName>
+        			<affiliationName affiliationId="2">GIPSA-Lab, Institut Polytechnique de Grenoble, 38000 Grenoble, France</affiliationName>
+        			<affiliationName affiliationId="3">Laboratoire de Météorologie Dynamique, Institut Pierre Simon Laplace, École Normale Supérieure, 75231 Paris, France</affiliationName>
+        			<affiliationName affiliationId="4">Istituto Nazionale di Geofisica e Vulcanologia, 00143 Rome, Italy</affiliationName>
+        			<affiliationName affiliationId="5">Faculty of Electrical and Computer Engineering, University of Iceland, 101 Reykjavik, Iceland</affiliationName>
+        		</affiliationsList>
+		<abstract language="eng">In image processing, it is commonly assumed that the model ruling spectral mixture in a given hyperspectral pixel is linear. However, in many real life cases, the different objects and materials determining the observed spectral signatures overlap in the same scene, resulting in nonlinear mixture. This is particularly evident in volcanoes-related imagery, where both airborne plumes of effluents and surface deposit of volcanic ejecta can be mixed in the same observation line of sight. To tackle this intrinsic complexity, in this paper, we perform a pilot test using Nonlinear Principal Component Analysis (NLPCA) as a nonlinear transformation, that projects a hyperspectral image onto a reduced-dimensionality feature space. The use of NLPCA is twofold: (1) it is used to reduce the dimensionality of the original spectral data and (2) it performs a linearization of the information, thus allowing the effective use of successive linear approaches for spectral unmixing. The proposed method has been tested on two different hyperspectral datasets, dealing with active volcanoes at the time of the observation. The dimensionality of the spectroscopic problem is reduced of up to 95% (ratio of the elements of compressed nonlinear vectors and initial spectral inputs), by the use of NLPCA. The selective use of an atmospheric correction pre-processing is applied, demonstrating how individual plume and volcanic surface deposit components can be discriminated, paving the way to future application of this method.</abstract>
+		<fullTextUrl format="pdf">http://www.mdpi.com/2076-3263/7/3/46</fullTextUrl>
+		<keywords language="eng">
+        			<keyword>nonlinear spectral unmixing</keyword>
+        			<keyword>nonlinear PCA</keyword>
+        			<keyword>volcanic plumes</keyword>
+        			<keyword>hyperspectral remote sensing</keyword>
+        		</keywords>
+	</record>
+</records>
