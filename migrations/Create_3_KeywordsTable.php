@@ -39,7 +39,7 @@ class Create_3_KeywordsTable extends Migration
 		try {
 			$this->db->query("SELECT 1 FROM `keywords` LIMIT 1");
 			return true;
-		} catch (Exception $e) {
+		} catch (\PDOException $e) {
 			return false;
 		}
 	}

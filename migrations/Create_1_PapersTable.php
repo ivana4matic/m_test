@@ -55,7 +55,7 @@ class Create_1_PapersTable extends Migration
 		try {
 			$this->db->query("SELECT 1 FROM `papers` LIMIT 1");
 			return true;
-		} catch (Exception $e) {
+		} catch (\PDOException $e) {
 			return false;
 		}
 	}

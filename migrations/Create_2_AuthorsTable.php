@@ -41,7 +41,7 @@ class Create_2_AuthorsTable extends Migration
 		try {
 			$this->db->query("SELECT 1 FROM `authors` LIMIT 1");
 			return true;
-		} catch (Exception $e) {
+		} catch (\PDOException $e) {
 			return false;
 		}
 	}
