@@ -17,10 +17,7 @@ foreach($files as $file) {
 	if ( ($file !== '.') && ($file !== '..') ) {
 		
 		$migrationClass = rtrim($file, '.php');
-		var_dump($migrationClass);
 		$migration = new $migrationClass;
-		var_dump($migration);
-		die('success');
 		$migration->up();
 	}
 }
