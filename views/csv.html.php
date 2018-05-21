@@ -1,7 +1,7 @@
 <?php
 include_once 'index.html.php';
 ?>
-<h1>SHOW ALL</h1>
+<h1>SHOW ITEMS FROM CSV</h1>
 <?php 
 
 if (count($papers > 0)) {
@@ -17,5 +17,4 @@ if (count($papers > 0)) {
 		<?php
 	}
 }
-
 ?>

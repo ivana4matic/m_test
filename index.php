@@ -1,4 +1,7 @@
-<?php 
+<?php
+
+const CONFIG_ACCESS = true;
+
 include_once 'config.php';
 
 if (file_exists(__DIR__."/views/".$config['task'].".html.php")){
