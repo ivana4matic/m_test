@@ -1,5 +1,7 @@
 <?php
 
+namespace Mdpi\config;
+
 class Config
 {
 	const DB_HOST = '127.0.0.1';

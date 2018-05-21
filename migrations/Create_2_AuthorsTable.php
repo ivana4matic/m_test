@@ -1,6 +1,8 @@
 <?php
 
-include_once __DIR__.'/../libs/Migration.php';
+namespace Mdpi\migrations;
+
+use Mdpi\libs\Migration;
 
 class Create_2_AuthorsTable extends Migration
 {

@@ -1,7 +1,6 @@
 <?php
 
-require_once 'Author.php';
-require_once 'Keyword.php';
+namespace Mdpi\models;
 
 class Paper
 {
@@ -73,7 +72,7 @@ class Paper
 		$statement = $this->db->prepare('SELECT * FROM `papers` WHERE `doi`=:doi LIMIT 1');
 		$statement->bindParam(':doi', $doi);
 		$statement->execute();
-		$paper = $statement->fetch(PDO::FETCH_ASSOC);
+		$paper = $statement->fetch(\PDO::FETCH_ASSOC);
 
 		if ($paper == false) {
 			return [];

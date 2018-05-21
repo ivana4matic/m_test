@@ -1,5 +1,7 @@
 <?php
 
+namespace Mdpi\services;
+
 class PapersService 
 {
 	public function getDataFromXml()

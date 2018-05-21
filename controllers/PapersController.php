@@ -1,7 +1,9 @@
 <?php
 
-require_once(__DIR__.'/../models/Paper.php');
-require_once(__DIR__.'/../services/PapersService.php');
+namespace Mdpi\controllers;
+
+use Mdpi\services\PapersService;
+use Mdpi\models\Paper;
 
 class PapersController
 {

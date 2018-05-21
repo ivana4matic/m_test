@@ -24,8 +24,8 @@ if (isset($_GET['task'])) {
 }
 
 try {
-    $pdo = new PDO('mysql:host='.$config['dbhost'].';dbname='.$config['dbname'], $config['dbuser'], $config['dbpass']);
-} catch (PDOException $e) {
+    $pdo = new \PDO('mysql:host='.$config['dbhost'].';dbname='.$config['dbname'], $config['dbuser'], $config['dbpass']);
+} catch (\PDOException $e) {
     $config['error'] = $e->getMessage();
     include_once "views/error.html.php";
     die();
@@ -34,10 +34,11 @@ try {
 //----------------------------
 // Routing
 //----------------------------
+$controller = new Mdpi\controllers\PapersController($pdo, $config);
 
 if (isset($_GET['task'])) {
-    require_once(__DIR__.'/controllers/PapersController.php');
-    $controller = new PapersController($pdo, $config);
+    // require_once(__DIR__.'/controllers/PapersController.php');
+    
 
     if ($_GET['task'] === 'all') {
         $controller->show();

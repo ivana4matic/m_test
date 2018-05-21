@@ -1,5 +1,7 @@
 <?php
 
+namespace Mdpi\models;
+
 class Author
 {
 	private $db;

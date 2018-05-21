@@ -2,6 +2,8 @@
 
 const CONFIG_ACCESS = true;
 
+require_once __DIR__.'/vendor/autoload.php';
+
 include_once 'config.php';
 
 if (file_exists(__DIR__."/views/".$config['task'].".html.php")){
