@@ -73,13 +73,18 @@ class PapersService
 
 	public function getDataFromJson($apiurl)
 	{
-		$data = file_get_contents($apiurl);
+        $data = @file_get_contents($apiurl);
+
+        if ($data == false ) {
+            die('unable to reach the resource');
+        }
+
 		$total = json_decode($data, true);
 		$items = $total['items'];
 
 		// As the data comes from Scilit I guess there is 
 		// a specific reason why DOI is null so I will consider
-		// there is an custom rule how DOI is generated
+		// there is a custom rule how DOI is generated
 		// otherwise data with invalid DOI shouldn't be processed
 
 		foreach ($items as $key => $item) {
